@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="blog-rss.xsd" version="2.0">
     <channel>
         <title>Página de noticias</title>
-        <link>https://alexojeac.github.io/rss.github.io/</link>
-        <description>Página de noticias</description>
+            <link>https://alexojeac.github.io/rss.github.io/</link>
+            <description>Página de noticias</description>
         <item>
             <title>Artículo 1</title>
             <link>https://alexojeac.github.io/rss.github.io/</link>
