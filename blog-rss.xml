@@ -9,21 +9,18 @@
             <link>https://alexojeac.github.io/rss.github.io/</link>
             <description>Este es el primer artículo</description>
             <author>Alejandro Ojea Corregidor</author>
-            <pubDate>Wed, 26 Apr 2023 18:55:31 +0200</pubDate>
         </item>
         <item>
             <title>Artículo 2</title>
             <link>https://alexojeac.github.io/rss.github.io/</link>
             <description>Este es el segundo artículo</description>
             <author>Alejandro Ojea Corregidor</author>
-            <pubDate>Wed, 26 Apr 2023 18:58:39 +0200</pubDate>
         </item>
         <item>
             <title>Artículo 3</title>
             <link>https://alexojeac.github.io/rss.github.io/</link>
             <description>Este es el tercer artículo</description>
             <author>Alejandro Ojea Corregidor</author>
-            <pubDate>Wed, 26 Apr 2023 18:57:42 +0200</pubDate>
         </item>
     </channel>
 </rss>
